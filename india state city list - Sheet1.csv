@@ -1,0 +1,385 @@
+country,state,city
+India,Andhra Pradesh,Visakhapatnam
+India,Andhra Pradesh,Vijayawada
+India,Andhra Pradesh,Guntur
+India,Andhra Pradesh,Nellore
+India,Andhra Pradesh,Kurnool
+India,Andhra Pradesh,Kakinada
+India,Andhra Pradesh,Rajahmundry
+India,Andhra Pradesh,Kadapa
+India,Andhra Pradesh,Mangalagiri-Tadepalli
+India,Andhra Pradesh,Tirupati
+India,Andhra Pradesh,Anantapuram
+India,Andhra Pradesh,Vizianagaram
+India,Andhra Pradesh,Eluru
+India,Andhra Pradesh,Nandyal
+India,Andhra Pradesh,Ongole
+India,Andhra Pradesh,Adoni
+India,Andhra Pradesh,Madanapalle
+India,Andhra Pradesh,Machilipatnam
+India,Andhra Pradesh,Tenali
+India,Andhra Pradesh,Proddatur
+India,Andhra Pradesh,Chittoor
+India,Andhra Pradesh,Hindupur
+India,Andhra Pradesh,Srikakulam
+India,Andhra Pradesh,Bhimavaram
+India,Andhra Pradesh,Tadepalligudem
+India,Andhra Pradesh,Guntakal
+India,Andhra Pradesh,Dharmavaram
+India,Andhra Pradesh,Gudivada
+India,Andhra Pradesh,Narasaraopet
+India,Andhra Pradesh,Kadiri
+India,Andhra Pradesh,Tadipatri
+India,Andhra Pradesh,Chilakaluripet
+India,Arunachal Pradesh,Itanagar
+India,Arunachal Pradesh,Bomdila
+India,Arunachal Pradesh,Pasighat
+India,Arunachal Pradesh,Ziro
+India,Arunachal Pradesh,Tawang
+India,Arunachal Pradesh,Roing
+India,Arunachal Pradesh,Bhalukpong
+India,Arunachal Pradesh,Changlang
+India,Arunachal Pradesh,Dibang Valley
+India,Arunachal Pradesh,East Kameng
+India,Arunachal Pradesh,Tezu
+India,Arunachal Pradesh,Lohit
+India,Arunachal Pradesh,Daporijo
+India,Arunachal Pradesh,Anini
+India,Arunachal Pradesh,Namsai
+India,Arunachal Pradesh,Khonsa
+India,Arunachal Pradesh,Tawang Town
+India,Arunachal Pradesh,Yingkiong
+India,Arunachal Pradesh,Sela Pass
+India,Arunachal Pradesh,Seppa
+India,Arunachal Pradesh,Dirang
+India,Arunachal Pradesh,Naharlagun
+India,Arunachal Pradesh,Koloriang
+India,Arunachal Pradesh,Miao
+India,Assam,Guwahati
+India,Assam,Jorhat
+India,Assam,Dibrugarh
+India,Assam,Tezpur
+India,Assam,Sivasagar
+India,Assam,Bongaigaon
+India,Assam,Tinsukia
+India,Assam,Nagaon
+India,Assam,Dhubri
+India,Assam,Barpeta
+India,Assam,Goalpara
+India,Assam,Karimganj
+India,Assam,Silchar
+India,Assam,Golaghat
+India,Assam,Nalbari
+India,Assam,Dhemaji
+India,Assam,Kamrup
+India,Assam,Lakhimpur
+India,Assam,Cachar
+India,Assam,Karbi Anglong
+India,Assam,Hailakandi
+India,Assam,Kokrajhar
+India,Assam,Morigaon
+India,Assam,Sonitpur
+India,Bihar,Patna
+India,Bihar,Gaya
+India,Bihar,Bhagalpur
+India,Bihar,Darbhanga
+India,Bihar,Begusarai
+India,Bihar,Munger
+India,Bihar,Buxar
+India,Bihar,Madhubani
+India,Bihar,Nawada
+India,Bihar,Purnia
+India,Bihar,Saharsa
+India,Bihar,Sitamarhi
+India,Bihar,Vaishali
+India,Bihar,Jamui
+India,Bihar,Araria
+India,Bihar,Rohtas
+India,Bihar,Bihar Sharif
+India,Bihar,Muzaffarpur
+India,Bihar,Nalanda
+India,Bihar,Katihar
+India,Bihar,Siwan
+India,Bihar,Samastipur
+India,Bihar,Kishanganj
+India,Bihar,Gopalganj
+India,Chhattisgarh,Raipur
+India,Chhattisgarh,Raigarh
+India,Chhattisgarh,Mahasamund
+India,Chhattisgarh,Korba
+India,Chhattisgarh,Rajnandgaon
+India,Chhattisgarh,Bilaspur
+India,Chhattisgarh,Dhamtari
+India,Chhattisgarh,Jagdalpur
+India,Chhattisgarh,Kanker
+India,Chhattisgarh,Ambikapur
+India,Chhattisgarh,Bemetara
+India,Chhattisgarh,Chirimiri
+India,Chhattisgarh,Kondagaon
+India,Chhattisgarh,Baikunthpur
+India,Chhattisgarh,Bhilai
+India,Chhattisgarh,Dalli Rajhara
+India,Chhattisgarh,Manendragarh
+India,Chhattisgarh,Mungeli
+India,Chhattisgarh,Gaurella
+India,Chhattisgarh,Sakti
+India,Chhattisgarh,Ambagarh Chowki
+India,Chhattisgarh,Sarangarh
+India,Chhattisgarh,Khairagarh
+India,Chhattisgarh,Jashpur Nagar
+India,Chhattisgarh,Champa
+India,Chhattisgarh,Katghora
+India,Chhattisgarh,Akaltara
+India,Chhattisgarh,Saraipali
+India,Chhattisgarh,Takhatpur
+India,Chhattisgarh,Kawardha
+India,Chhattisgarh,Pithora
+India,Chhattisgarh,Simga
+India,Chhattisgarh,Lormi
+India,Chhattisgarh,Dantewada
+India,Chhattisgarh,Bhatapara
+India,Chhattisgarh,"Pop. 58,000"
+India,Chhattisgarh,Surajpur
+India,Chhattisgarh,Sukma
+India,Chhattisgarh,Balod
+India,Chhattisgarh,Bijapur
+India,Chhattisgarh,Dongargarh
+India,Chhattisgarh,Ratanpur
+India,Chhattisgarh,Pendra
+India,Chhattisgarh,Bishrampur
+India,Chhattisgarh,Kharod
+India,Chhattisgarh,Bodri
+India,Chhattisgarh,Janjgir
+India,Chhattisgarh,Durg
+India,Chhattisgarh,Balrampur
+India,Chhattisgarh,Gariyaband
+India,Chhattisgarh,Pakhanjur
+India,Goa,Panaji
+India,Goa,Margao
+India,Goa,Mapusa
+India,Goa,Ponda
+India,Goa,Canacona
+India,Goa,Pernem
+India,Goa,Mormugao
+India,Goa,Bicholim
+India,Goa,Quepem
+India,Goa,Cuncolim
+India,Goa,Sanguem
+India,Goa,Sanquelim
+India,Goa,Valpoi
+India,Goa,Bardez
+India,Goa,Curchorem
+India,Goa,Tiswadi
+India,Goa,Salcete
+India,Goa,Sattari
+India,Gujrat,Ahmedabad
+India,Gujrat,Surat
+India,Gujrat,Vadodara
+India,Gujrat,Rajkot
+India,Gujrat,Bhavnagar
+India,Gujrat,Jamnagar
+India,Gujrat,Gandhinagar
+India,Gujrat,Junagadh
+India,Gujrat,Gandhidham
+India,Gujrat,Anand
+India,Gujrat,Navsari
+India,Gujrat,Morbi
+India,Gujrat,Nadiad
+India,Gujrat,Surendranagar
+India,Gujrat,Bharuch
+India,Gujrat,Mehsana
+India,Gujrat,Bhuj
+India,Gujrat,Porbandar
+India,Gujrat,Palanpur
+India,Gujrat,Valsad
+India,Gujrat,Vapi
+India,Gujrat,Gondal
+India,Gujrat,Veraval
+India,Gujrat,Godhra
+India,Gujrat,Patan
+India,Gujrat,Kalol
+India,Gujrat,Dahod
+India,Gujrat,Botad
+India,Gujrat,Amreli
+India,Gujrat,Deesa
+India,Gujrat,Jetpur
+India,Haryana,Gurgaon
+India,Haryana,Faridabad
+India,Haryana,Ambala
+India,Haryana,Karnal
+India,Haryana,Panipat
+India,Haryana,Rohtak
+India,Haryana,Hisar
+India,Haryana,Panchkula
+India,Haryana,Kurukshetra
+India,Haryana,Sonipat
+India,Haryana,Yamunanagar
+India,Haryana,Jind
+India,Haryana,Jhajjar
+India,Haryana,Kaithal
+India,Haryana,Sirsa
+India,Haryana,Palwal
+India,Haryana,Fatehabad
+India,Haryana,Chandigarh
+India,Haryana,Nuh
+India,Haryana,Narnaul
+India,Haryana,Bahadurgarh
+India,Haryana,Rewari
+India,Haryana,Bhiwani
+India,Haryana,Mahendragarh
+India,Haryana,Patan
+India,Haryana,Kalol
+India,Haryana,Dahod
+India,Haryana,Botad
+India,Haryana,Amreli
+India,Haryana,Deesa
+India,Haryana,Jetpur
+India,Himachal Pradesh,Shimla
+India,Himachal Pradesh,Dharamsala
+India,Himachal Pradesh,Chamba
+India,Himachal Pradesh,Kangra
+India,Himachal Pradesh,Kullu
+India,Himachal Pradesh,Solan
+India,Himachal Pradesh,Hamirpur
+India,Himachal Pradesh,Dalhousie
+India,Himachal Pradesh,Una
+India,Himachal Pradesh,Manali
+India,Himachal Pradesh,Bilaspur
+India,Himachal Pradesh,Palampur
+India,Himachal Pradesh,Nahan
+India,Himachal Pradesh,Parwanoo
+India,Himachal Pradesh,Bir
+India,Himachal Pradesh,Theog
+India,Himachal Pradesh,Narkanda
+India,Himachal Pradesh,Kinnaur
+India,Himachal Pradesh,Paonta Sahib
+India,Himachal Pradesh,Arki
+India,Himachal Pradesh,Baddi
+India,Himachal Pradesh,Nurpur
+India,Himachal Pradesh,Mandi Division
+India,Himachal Pradesh,Nalagarh
+India,Jharkhand,Jamshedpur
+India,Jharkhand,Dhanbad
+India,Jharkhand,Ranchi
+India,Jharkhand,Bokaro Steel City
+India,Jharkhand,Deoghar
+India,Jharkhand,Phusro–Bermo–Bokaro Thermal
+India,Jharkhand,Hazaribagh
+India,Jharkhand,Giridih
+India,Jharkhand,Ramgarh
+India,Jharkhand,Medininagar (Daltonganj)
+India,Jharkhand,Chirkunda
+India,Karnataka,Bangalore
+India,Karnataka,Mangalore
+India,Karnataka,Udupi
+India,Karnataka,Bidar
+India,Karnataka,Chitradurga
+India,Karnataka,Bijapur
+India,Karnataka,Mandya
+India,Karnataka,Hassan
+India,Karnataka,Kolar
+India,Karnataka,Shimoga
+India,Karnataka,Belgaum
+India,Karnataka,Chikmagalur
+India,Karnataka,Davanagere
+India,Karnataka,Tumkur
+India,Karnataka,Gulbarga
+India,Karnataka,Hospet
+India,Karnataka,Hubli
+India,Karnataka,Raichur
+India,Kerala,Kochi
+India,Kerala,Thiruvananthapuram
+India,Kerala,Kozhikode
+India,Kerala,Thrissur
+India,Kerala,Kollam
+India,Kerala,Kottayam
+India,Kerala,Alappuzha
+India,Kerala,Kannur
+India,Kerala,Wayanad
+India,Kerala,Palakkad
+India,Kerala,Malappuram
+India,Kerala,Kasaragod
+India,Kerala,Pathanamthitta
+India,Kerala,Ernakulam
+India,Kerala,Idukki
+India,Kerala,Thalassery
+India,Kerala,Cherthala
+India,Kerala,Neyyattinkara
+India,Kerala,Varkala
+India,Kerala,Aluva
+India,Kerala,Munnar
+India,Kerala,Kodungallur
+India,Kerala,Changanassery
+India,Kerala,Kalpetta
+India,Madhya Pradesh,Bhopal
+India,Madhya Pradesh,Indore
+India,Madhya Pradesh,Ujjain
+India,Madhya Pradesh,Gwalior
+India,Madhya Pradesh,Jabalpur
+India,Madhya Pradesh,Dewas
+India,Madhya Pradesh,Sagar
+India,Madhya Pradesh,Shivpuri
+India,Madhya Pradesh,Narmadapuram
+India,Madhya Pradesh,Satna
+India,Madhya Pradesh,Guna
+India,Madhya Pradesh,Rewa
+India,Madhya Pradesh,Burhanpur
+India,Madhya Pradesh,Ratlam
+India,Madhya Pradesh,Chhatarpur
+India,Madhya Pradesh,Chhindwara
+India,Madhya Pradesh,Vidisha
+India,Madhya Pradesh,Morena
+India,Madhya Pradesh,Katni
+India,Madhya Pradesh,Mandsaur
+India,Madhya Pradesh,Khargone
+India,Madhya Pradesh,Kodungallur
+India,Madhya Pradesh,Changanassery
+India,Madhya Pradesh,Kalpetta
+India,Maharashtra,Pune
+India,Maharashtra,Mumbai
+India,Maharashtra,Aurangabad
+India,Maharashtra,Nagpur
+India,Maharashtra,Nashik
+India,Maharashtra,Kolhapur
+India,Maharashtra,Nanded
+India,Maharashtra,Solapur
+India,Maharashtra,Amravati
+India,Maharashtra,Akola
+India,Maharashtra,Thane
+India,Maharashtra,Jalgaon
+India,Maharashtra,Chandrapur
+India,Maharashtra,Dhule
+India,Maharashtra,Satara
+India,Maharashtra,Ahmednagar
+India,Maharashtra,Beed
+India,Maharashtra,Jalna
+India,Maharashtra,Gondia
+India,Maharashtra,Sangli
+India,Maharashtra,Wardha
+India,Maharashtra,Osmanabad
+India,Maharashtra,Ratnagiri
+India,Maharashtra,Yavatmal
+India,Manipur,Imphal
+India,Manipur,Thoubal
+India,Manipur,Ukhrul
+India,Manipur,Churachandpur district
+India,Manipur,Tamenglong
+India,Manipur,Bishnupur
+India,Manipur,Senapati
+India,Manipur,Kakching
+India,Manipur,Moirang
+India,Manipur,Churachandpur
+India,Manipur,Mayang Imphal
+India,Manipur,Porompat
+India,Manipur,Nambol
+India,Manipur,Yairipok
+India,Manipur,Wangjing
+India,Manipur,Heingang
+India,Manipur,Andro
+India,Manipur,Kumbi
+India,Manipur,Moreh
+India,Manipur,Chandel
+India,Manipur,Kangpokpi
+India,Manipur,Jiribam
+India,Manipur,Wangoi
+India,Manipur,Naoriya Pakhanglakpa
