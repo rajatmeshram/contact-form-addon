@@ -9,3 +9,7 @@ This plugin create a option page.In this option page we have option to import th
 It also having the option to select the default country.If you add country name so only that country details will show in select box.
 
 The sample csv file attach you can modify as per required.
+<img src="https://github.com/rajatmeshram/contact-form-addon/blob/main/c1.png" />
+<img src="https://github.com/rajatmeshram/contact-form-addon/blob/main/c2.png" />
+<img src="https://github.com/rajatmeshram/contact-form-addon/blob/main/c3.png" />
+
